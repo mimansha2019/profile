@@ -24,11 +24,16 @@ This repository outlines my technical skills, notable projects, achievements and
 ## ✅ Achievements and Interests:-
 
 🔸I have secured 9.71 CGPA overall in my 1st Year of my MCA.
+
 🔸I had served as Vice-President of my Computer Science Department back in graduation in Delhi University.
+
 🔸I had successfully conducted the Tech Fest of our Computer Science Department TechMelange in graduation.
+
 🔸I had also led the Design Team im managing all the design related works for our department in the tech fest.
+
 🔸I have also secured 1st rank in Inter College Kho-Kho tournament held between the collges of Delhi University.
 
 🔸I have a really keen interest in making YouTube videos and currently I have a theme page account on YouTube which has around 90,500 subscribers.
+
 🔸I also have interest in making Mandala Art and exploring new places.
 
